@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba del bootcamp de henry
+Este es un repositorio de prueba, para probar como crear y clonar un Repo desde GitHub
+
